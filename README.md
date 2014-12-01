@@ -1,4 +1,7 @@
 a333
 ====
 
-bullethell
+Bullethell
+
+Dodge the bullets. Arrow keys to move.
+
